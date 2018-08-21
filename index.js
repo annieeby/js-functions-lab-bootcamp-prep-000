@@ -8,27 +8,9 @@ function happyHolidays() {
 }
 
 function happyHolidaysTo(name) {
-  console.log(`Happy holidays, ${name}!`)
-}
-happyHolidaysTo(`you`)
-
-happyHolidaysTo('you')
-
-
-function happyHolidaysTo(name) {
-  console.log(`Happy holidays, ${name}!`)
-}
-happyHolidaysTo("you")
-
-function happyHolidaysTo(name) {
   return(`Happy holidays ${name}!`)
 }
-happyHolidaysTo(`you`)
 
-function happyHolidaysTo(name) {
-  console.log(`Happy holidays, ${name}!`) 
-}
-happyHolidaysTo(`you`)
 
 function happyHolidayTo(holiday, name) {
   console.log('Happy ${holiday}, ${name}!')
